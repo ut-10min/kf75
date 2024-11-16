@@ -11,8 +11,8 @@ var data =
       "name": "梅村悠介",
       "affiliation": "総合文化研究科広域科学専攻",
       "major": "分子生物学",
-      "title": "Null",
-      "abstract": "Null"
+      "title": "",
+      "abstract": ""
     },
     {
       "name": "勝間田里菜",
