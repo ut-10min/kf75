@@ -41,7 +41,7 @@ function construstTimeTable(timeTable, talksData) {
                 return {
                     time: time,
                     name: "田口 富隆",
-                    title: "アインシュタインの最後の宿題が遺したもの",
+                    title: "titlessss",
                     major: "工学系研究科",
                 };
             }
