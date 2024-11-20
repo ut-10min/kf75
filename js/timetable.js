@@ -14,7 +14,12 @@ function construstTimeTable(timeTable, talksData) {
                 (name == "第1部") ||
                 (name == "第2部") ||
                 (name == "第3部") ||
-                (name == "第4部")
+                (name == "第4部") ||
+                (name == "第5部") ||
+                (name == "第6部") ||
+                (name == "第7部") ||
+                (name == "第8部") ||
+                (name == "第9部")
             ) {
                 return { time: name, name: "", title: "", major: "" };
             }
