@@ -24,7 +24,7 @@ function construstTimeTable(timeTable, talksData) {
             }
             // 休憩・座談会
             else if (name.indexOf("休憩・座談会") == 0) {
-                return { time: time, name: "", title: name, major: "" };
+                return { time: time, name: "", title: "大学院生による座談会", major: "" };
             }
             // 講演
             else {
